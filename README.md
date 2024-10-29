@@ -1,8 +1,8 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-#NAME:Nandhana.R
-#REG:NO:212223040124
-#DEPT:CSE
+# NAME:Nandhana.R
+# REG:NO:212223040124
+# DEPT:CSE
 
 
 # AIM:
